@@ -4,7 +4,7 @@ btcrcoin integration/staging tree
 http://www.btcrcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 btcrcoin Developers
+Copyright (c) 2018 btcrcoin Developers
 
 What is btcrcoin?
 ----------------
