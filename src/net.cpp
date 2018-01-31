@@ -1173,7 +1173,11 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"btcrcointools.com", "104.199.179.135"},
+    {"node01.btcrcoin.org", "node02.btcrcoin.org"},
+    {"node03.btcrcoin.org", "node04.btcrcoin.org"},
+    {"node05.btcrcoin.org", "node06.btcrcoin.org"},
+    {"node07.btcrcoin.org", "node08.btcrcoin.org"},
+    {"node09.btcrcoin.org", "node10.btcrcoin.org"},
     {NULL, NULL}
 };
 
